@@ -1,6 +1,6 @@
 # UPI Digital Payments Stress & Revenue Risk Model
 
-Open this link Online - [![Open In Binder](https://mybinder.org/badge_logo.svg)](https://hub.gesis.mybinder.org/user/viknesh-data-up-ts-stress-model-dxvyg4rb/lab/workspaces/auto-a)
+Open this code Online - [![Open In Binder](https://mybinder.org/badge_logo.svg)](https://hub.gesis.mybinder.org/user/viknesh-data-up-ts-stress-model-dxvyg4rb/lab/workspaces/auto-a)
 
 ## Overview
 
@@ -145,3 +145,4 @@ Revenue estimates are scenario-based approximations using simplified assumptions
 
 
 ---
+
