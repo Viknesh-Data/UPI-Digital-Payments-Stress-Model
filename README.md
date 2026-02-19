@@ -1,7 +1,5 @@
 # UPI Digital Payments Stress & Revenue Risk Model
 
-Open this code Online - [![Open In Binder](https://mybinder.org/badge_logo.svg)](https://hub.gesis.mybinder.org/user/viknesh-data-up-ts-stress-model-dxvyg4rb/lab/workspaces/auto-a)
-
 ## Overview
 
 This project analyzes the structural growth behavior of India's UPI ecosystem and models the financial impact of sustained transaction contraction scenarios.
@@ -91,6 +89,12 @@ Built a volatility-adjusted monitoring model:
 
 ---
 
+## How To Run Online (Binder)
+
+Open this code Online - [![Open In Binder](https://mybinder.org/badge_logo.svg)](https://hub.gesis.mybinder.org/user/viknesh-data-up-ts-stress-model-dxvyg4rb/lab/workspaces/auto-a)
+
+---
+
 ## Key Findings
 
 - Mean Monthly Growth: ~3.2%
@@ -145,4 +149,5 @@ Revenue estimates are scenario-based approximations using simplified assumptions
 
 
 ---
+
 
