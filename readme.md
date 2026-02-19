@@ -1,5 +1,7 @@
 # UPI Digital Payments Stress & Revenue Risk Model
 
+Open this link Online - [![Open In Binder](https://mybinder.org/badge_logo.svg)](https://hub.gesis.mybinder.org/user/viknesh-data-up-ts-stress-model-dxvyg4rb/lab/workspaces/auto-a)
+
 ## Overview
 
 This project analyzes the structural growth behavior of India's UPI ecosystem and models the financial impact of sustained transaction contraction scenarios.
@@ -140,5 +142,6 @@ UPI_Digital_Payments_Risk_Model/
 
 This analysis is for academic and portfolio purposes only.  
 Revenue estimates are scenario-based approximations using simplified assumptions and do not represent actual bank financial disclosures.
+
 
 ---
